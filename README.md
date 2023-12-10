@@ -6,6 +6,7 @@
 - [ ] module周りで詰み
 - [ ] 多分やるならpresentationとかあるこっちでやったほうがいいかも
   - [【Flutter】Clean Architectureに基づいたディレクトリ構成](https://l.pg1x.com/4J7qKbLn5nLJ2t6dA)
+  - 一回create appからこの形に置き換えてみるところからスタートしてみてもいいかも
 
 # tree
 ```
