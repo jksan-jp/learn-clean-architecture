@@ -4,6 +4,8 @@
 - [hirotakan/go-cleanarchitecture-sample: Example of a Go application using a clean architecture.](https://l.pg1x.com/8EdLZ6dnP7jHvqMt7)
 
 - [ ] module周りで詰み
+- [ ] 多分やるならpresentationとかあるこっちでやったほうがいいかも
+  - [【Flutter】Clean Architectureに基づいたディレクトリ構成](https://l.pg1x.com/4J7qKbLn5nLJ2t6dA)
 
 # tree
 ```
